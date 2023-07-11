@@ -57,16 +57,62 @@
   margin: 40px 130px 25px 130px;
   background-color: #FFF;;
   border-style: none;
+  padding-bottom: 0px;
 }
 .first{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    text-decoration: underline;
 }
 .second{
-     border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    text-align: center;
+    text-decoration: underline;
+ 
+
+    
 }
 .third{
     border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
+    text-align: center;
+    text-decoration: underline;
 }
+.shop{
+    justify-content: center;
+    display: flex;
+    border-radius: 8px;
+    background: rgba(141, 113, 113, 0.05);
+    margin: 40px 150px 40px 150px;
+    padding: 60px 0px 60px 0px;
+}
+.shop1{
+    padding-right: 70px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+.shop2{
+    padding-right: 70px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+.shop3{
+    padding-right: 70px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+
