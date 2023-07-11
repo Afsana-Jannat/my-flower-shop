@@ -31,6 +31,7 @@
     padding: 18px 40px;
     border-style: none;
     margin-top: 5px;
+    color: #FFF;
 }
 
 .banner-container{
@@ -133,6 +134,7 @@
     margin: 80px 0px 80px 0px;
     background-color: rgb(243, 237, 239);
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 .deal-container{
     justify-content: center;
@@ -200,6 +202,7 @@ margin: 30px;
     border: 2px solid;
     background-color: black;
     margin-top: 70px;
+    width:;
 }
 h3{
     font-size: 48px;
@@ -223,6 +226,27 @@ h3{
     color: rgba(255, 255, 255, 0.40);
     font-size: 16px;
 
+}
+.first-frm{
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 23px;
+}
+fieldset{
+    width: 250px;
+}
+::placeholder{
+    color: #e7a6b5;
+}
+legend{
+    color: #751f33;
+}
+.my-section{
+    background-image: url('./image/floral-background-with-cherry-blossoms-in-full-bloom-on-a-pink-background-free-vector.jpg');
+    border-radius: 15px;
+}
+.full-form{
+    margin-left: 100px;
 }
 
 
