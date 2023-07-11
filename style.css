@@ -166,6 +166,31 @@ display: flex;
 margin: 30px;
 }
 .last-bnr{
-    background-image: url('./image/Rectangle\ 9.png') ;
+   background: url('./image/Rectangle\ 9.png');
+   background-repeat: no-repeat;
+   background-position: center;
+   max-width: 100%;
+   margin: 30px 60px 30px 60px;
+  
 }
+.email{
+    width: 700px;
+    height: 60px;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #FFFFFF;
+}
+.bnr{
+    text-align: center;
+    padding-top: 40px;
+}
+.bnr-title{
+    color: #272727;
+   font-size: 40px;
+   font-weight: 800;
+    line-height: normal;
+}
+
 
