@@ -84,7 +84,7 @@
     justify-content: center;
     display: flex;
     border-radius: 8px;
-    background: rgba(141, 113, 113, 0.05);
+    background: rgba(153, 112, 112, 0.05);
     margin: 40px 150px 40px 150px;
     padding: 60px 0px 60px 0px;
 }
@@ -114,5 +114,58 @@
     font-style: normal;
     font-weight: 600;
     line-height: 35px;
+}
+.off{
+    color: #E55473;
+}
+.deal-description{
+    width: 550px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.deal-container{
+    margin: 80px 0px 80px 0px;
+    background-color: rgb(243, 237, 239);
+    padding-top: 40px;
+}
+.deal-container{
+    justify-content: center;
+    display: flex;
+
+}
+.deal-all{
+    color: #272727;
+font-size: 27px;
+}
+.deal-all{
+    text-align: center;
+    margin-top: 80px;
+}
+.insta-container{
+    text-align: center;
+}
+.ins-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+}
+.ins-des{
+    width: 500px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-left: 30%;
+}
+.picture{
+    width: 342px;
+height: 396px;
+display: flex;
+margin: 30px;
+}
+.last-bnr{
+    background-image: url('./image/Rectangle\ 9.png') ;
 }
 
